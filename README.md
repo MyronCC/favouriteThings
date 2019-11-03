@@ -2,7 +2,7 @@
 
 ## This page includes 3 anime that my most favourite
 
-##mannul guide
+## mannul guide
 1. Clone and download the source.
 2. Open your MAMP(for Windows WAMP), and import databases from folder ***database***, keep the server running.
 3. Open with Visual Studio Code, type code *npm start* in the ternimal.(node.js required)
