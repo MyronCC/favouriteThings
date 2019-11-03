@@ -11,4 +11,9 @@
 ### Personal desscription
 1. the icon of the website is the logo for my final protfolio.
 
+
+#### *Reference*
+1. https://img.moegirl.org/common/4/42/K-on_Poster.jpg
+2. https://img.moegirl.org/common/f/f0/Attack_on_Titan_Season_3_KV5.jpg
+3. https://upload.wikimedia.org/wikipedia/en/4/4a/Evangelion_3.0%2B1.0%2C_Teaser_Image.png
  
