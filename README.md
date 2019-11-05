@@ -27,7 +27,7 @@
 1. https://img.moegirl.org/common/4/42/K-on_Poster.jpg
 2. https://img.moegirl.org/common/f/f0/Attack_on_Titan_Season_3_KV5.jpg
 3. https://upload.wikimedia.org/wikipedia/en/4/4a/Evangelion_3.0%2B1.0%2C_Teaser_Image.png
-4. Prof Trevor's functional code. https://github.com/ling89889988952/Week7_Demo2.git
+4. Prof Trevor's functional code. https://github.com/Trevor-FanshaweC/Week7_Demo.git
 
 #### *Lisence*
 MIT Lisence - see the LISENCE for detail
