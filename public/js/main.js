@@ -11,19 +11,19 @@ const myVM = (() => {
                  </ul>`
     }
 
-    function parseUserData(person){//person is the database result 
-        let targetDiv = document.querySelector('.lb-content'),
+    function parseUserData(data){//the database result 
+        let targetDiv = document.querySelector('.lb-content');
             targetImg = lightbox.querySelector('img');
 
         let bioContent = `
-            <p>${person.bio}</p>
-            <h4>Social Media:</h4>
-            ${renderSocialMedia(person.social)}
+            <p>${data.Name}</p>
+            <h4>Producer</h4>
+            ${renderSocialMedia(data.ProducerName)}
             `;
 
             console.log(bioContent);
             targetDiv.innerHTML = bioContent;
-            targetImg.src = person.imgsrc;
+            targetImg.src = data.imgsrc;
 
             lightbox.classList.add('show-lb');
     }
@@ -35,7 +35,7 @@ const myVM = (() => {
         // find the image closest to the anchor tag and get its src property
         let imgSrc = this.previousElementSibling.getAttribute('src');
 
-        let url = `/${this.getAttribute('href')}`;  // /3
+        let url = `/users/${this.getAttribute('href')}`;  // /3
 
         fetch(url)  // go get the data
             .then(res => res.json()) // parse the json result into a plain object

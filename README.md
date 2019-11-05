@@ -2,6 +2,10 @@
 
 ## This page includes 3 anime that my most favourite
 
+### Preparetion
+1. Node.js
+2. MAMP/WAMP
+
 ### mannul guide
 1. Clone and download the source.
 2. Open your MAMP(for Windows WAMP), and import databases from folder ***database***, keep the server running.
@@ -24,4 +28,12 @@
 2. https://img.moegirl.org/common/f/f0/Attack_on_Titan_Season_3_KV5.jpg
 3. https://upload.wikimedia.org/wikipedia/en/4/4a/Evangelion_3.0%2B1.0%2C_Teaser_Image.png
 4. Prof Trevor's functional code. https://github.com/ling89889988952/Week7_Demo2.git
+
+#### *Lisence*
+MIT Lisence - see the LISENCE for detail
+
+#### *Contribution*
+1. Need all of preparetion
+2. Ruby need for SASS
+3. push in new branch
  
